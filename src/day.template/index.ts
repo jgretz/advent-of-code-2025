@@ -1,3 +1,5 @@
+import { exampleData, puzzleData } from "./data";
+
 const problem1 = {
   example: function () {
     return "";
